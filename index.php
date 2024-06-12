@@ -89,7 +89,7 @@
       </section>
     </div>
     <section class="main text-light">
-      <h4>PENDAFTARAN DIMULAI PADA TANGAL 1 JANUARI 2050...</h4>
+      <h4>PENDAFTARAN DIMULAI PADA TANGAL 1 JUNI 2055..</h4>
     </section>
     <?php
     if(isset($_GET['status'])){
